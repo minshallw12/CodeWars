@@ -12,3 +12,5 @@ def count_letters(word):
     return dictionary
 
 print(count_letters('sSUOPERrcalafragili555555555sticexpealidoshus'))
+
+#this is a test line for git push practice
